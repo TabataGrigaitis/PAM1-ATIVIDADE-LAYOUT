@@ -10,4 +10,8 @@
     <string name="dcvalor">valor</string>
     <string name="dcdescricao">descrição</string>
     <string name="dclocal">local</string>
+    <string name="dt1">Data 1</string>
+    <string name="dt2">Data 2</string>
+    <string name="b1">B1</string>
+    <string name="b2">B2</string>
 </resources>

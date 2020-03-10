@@ -37,7 +37,6 @@
         android:layout_marginRight="32dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/dcvalor"
         app:layout_constraintEnd_toStartOf="@+id/btnSelecione"
         app:layout_constraintStart_toStartOf="@+id/txtValot"
         app:layout_constraintTop_toBottomOf="@+id/txtValot" />
@@ -72,7 +71,6 @@
         android:layout_marginRight="32dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/dcdescricao"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/txtDescricao"
         app:layout_constraintTop_toBottomOf="@+id/txtDescricao" />
@@ -96,7 +94,6 @@
         android:layout_marginRight="32dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/dclocal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/txtLocal"
         app:layout_constraintTop_toBottomOf="@+id/txtLocal" />
